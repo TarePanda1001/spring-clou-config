@@ -1,1 +1,1 @@
-# spring-clou-config
+# spring-cloud-config
